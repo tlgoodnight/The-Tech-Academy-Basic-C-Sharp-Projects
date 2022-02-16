@@ -2,11 +2,14 @@
 
 
 <h3>Introduction</h3>
- 
-  This repository will be for The Tech Academy Basic C Sharp projects that I complete.
+	This repository will be for The Tech Academy Basic C Sharp projects that I complete.
 
-	<h5>ConsoleApp1<h5>
-		This is a basic template and generic app that uses the Console. 
+<h4>ConsoleApp1</h4>
+	This is a basic template and generic app that uses the Console. 
+	
+<h4>Daily Report Assignment</h4>
+	In this assignment the task was to create a Console app that asked basic questions and casted them to other data types if needed. 
+	
 
  
   
