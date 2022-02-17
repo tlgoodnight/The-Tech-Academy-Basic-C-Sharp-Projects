@@ -4,6 +4,9 @@
 <h3>Introduction</h3>
 	This repository will be for The Tech Academy Basic C Sharp projects that I complete.
 
+<h4>Anonymous Income Tracker Program</h4>
+	This challange was to build a Console program that asked for user input with multiple data types. Performed math calculations along with a Boolean comparison. 
+
 <h4>ConsoleApp1</h4>
 	This is a basic template and generic app that uses the Console.
 	
