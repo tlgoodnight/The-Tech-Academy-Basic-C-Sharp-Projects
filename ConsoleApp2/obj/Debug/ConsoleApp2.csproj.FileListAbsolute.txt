@@ -1,0 +1,6 @@
+C:\Users\owner\Desktop\Basic_C#_Programs\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\owner\Desktop\Basic_C#_Programs\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\owner\Desktop\Basic_C#_Programs\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\owner\Desktop\Basic_C#_Programs\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Basic_C#_Programs\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\owner\Desktop\Basic_C#_Programs\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
