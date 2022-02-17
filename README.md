@@ -7,6 +7,9 @@
 <h4>Anonymous Income Tracker Program</h4>
 	This challange was to build a Console program that asked for user input with multiple data types. Performed math calculations along with a Boolean comparison. 
 
+<h4>Car Insurance Approval Console Program</h4>
+	This challenge was to build a Console program that asked basic question to determine eligibility for car insurance. The test was the ability to use multiple variables in a 		boolean statement. 
+
 <h4>ConsoleApp1</h4>
 	This is a basic template and generic app that uses the Console.
 	
