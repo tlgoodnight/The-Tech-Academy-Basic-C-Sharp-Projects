@@ -5,7 +5,10 @@
 	This repository will be for The Tech Academy Basic C Sharp projects that I complete.
 
 <h4>ConsoleApp1</h4>
-	This is a basic template and generic app that uses the Console. 
+	This is a basic template and generic app that uses the Console.
+	
+<h4>ConsoleApp2</h4>
+	This basic Console application uses various math calculations and casting. 
 	
 <h4>Daily Report Assignment</h4>
 	In this assignment the task was to create a Console app that asked basic questions and casted them to other data types if needed. 
