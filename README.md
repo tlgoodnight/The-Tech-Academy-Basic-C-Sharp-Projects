@@ -34,6 +34,8 @@
 <h4>Shipping Quote Program</h4>
 	This is another assignment that is a console app. The challenge was to use if and else statements and calculations to provide a quote.
 	
+<h4>StringsandIntegersChallenge</h4>
+	A challenge using a console application that loops through a list and performs a calculations. Used try/catch block as well.
 
  
   
