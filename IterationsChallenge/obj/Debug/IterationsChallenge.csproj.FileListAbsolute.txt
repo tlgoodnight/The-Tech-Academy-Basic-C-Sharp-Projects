@@ -1,0 +1,7 @@
+C:\Users\owner\source\repos\IterationsChallenge\bin\Debug\IterationsChallenge.exe.config
+C:\Users\owner\source\repos\IterationsChallenge\bin\Debug\IterationsChallenge.exe
+C:\Users\owner\source\repos\IterationsChallenge\bin\Debug\IterationsChallenge.pdb
+C:\Users\owner\source\repos\IterationsChallenge\obj\Debug\IterationsChallenge.csproj.AssemblyReference.cache
+C:\Users\owner\source\repos\IterationsChallenge\obj\Debug\IterationsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\IterationsChallenge\obj\Debug\IterationsChallenge.exe
+C:\Users\owner\source\repos\IterationsChallenge\obj\Debug\IterationsChallenge.pdb

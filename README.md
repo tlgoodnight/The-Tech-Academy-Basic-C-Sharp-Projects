@@ -24,8 +24,12 @@
 
 <h4>ConsoleApp7</h4>
 	This basic console app was a challenge to work with strings. Concatenate/Convert/StringBuilder
+
 <h4>Daily Report Assignment</h4>
 	In this assignment the task was to create a Console app that asked basic questions and casted them to other data types if needed. 
+
+<h4>Iteration Challenge</h4>
+	A short simple iteration challenge using the Console app to loop through lists and arrays.
 
 <h4>Shipping Quote Program</h4>
 	This is another assignment that is a console app. The challenge was to use if and else statements and calculations to provide a quote.
