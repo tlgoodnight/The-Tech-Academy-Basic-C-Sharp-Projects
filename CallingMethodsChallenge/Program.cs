@@ -10,17 +10,19 @@ namespace CallingMethodsChallenge
     {
         static void Main(string[] args)
         {
-            int result1 = MethodsClass.Method1();
-            Console.WriteLine("Your current age is " + result1);
+            Console.WriteLine("Please provie how many hours of sleep you get on average a night?");
+            int userNumber = Convert.ToInt32(Console.ReadLine());
+
+            int result1 = MethodsClass.Method1(userNumber);
+            Console.WriteLine("You sleep approximately " + result1 + " hours per year.");
             Console.ReadLine();
 
-
-            int result2 = MethodsClass.Method2();
-            Console.WriteLine("You sleep approximately " + result2 + " hours per year.");
+            int result2 = MethodsClass.Method2(userNumber);
+            Console.WriteLine("You sleep a total of " + result2 + " days a year");
             Console.ReadLine();
 
-            int result3 = MethodsClass.Method3();
-            Console.WriteLine("Your room is approximately " + result3 + " square feet.");
+            int result3 = MethodsClass.Method3(userNumber);
+            Console.WriteLine("You sleep approximately " + result3 + " seconds in a year.");
             Console.ReadLine();
         }
     }

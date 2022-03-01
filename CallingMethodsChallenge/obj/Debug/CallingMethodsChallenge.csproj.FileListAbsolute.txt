@@ -5,3 +5,10 @@ C:\Users\owner\Desktop\Basic_C#_Programs\CallingMethodsChallenge\obj\Debug\Calli
 C:\Users\owner\Desktop\Basic_C#_Programs\CallingMethodsChallenge\obj\Debug\CallingMethodsChallenge.csproj.CoreCompileInputs.cache
 C:\Users\owner\Desktop\Basic_C#_Programs\CallingMethodsChallenge\obj\Debug\CallingMethodsChallenge.exe
 C:\Users\owner\Desktop\Basic_C#_Programs\CallingMethodsChallenge\obj\Debug\CallingMethodsChallenge.pdb
+C:\Users\owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsChallenge\obj\Debug\CallingMethodsChallenge.csproj.AssemblyReference.cache
+C:\Users\owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsChallenge\obj\Debug\CallingMethodsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsChallenge\obj\Debug\CallingMethodsChallenge.exe
+C:\Users\owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsChallenge\obj\Debug\CallingMethodsChallenge.pdb
+C:\Users\owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsChallenge\bin\Debug\CallingMethodsChallenge.exe.config
+C:\Users\owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsChallenge\bin\Debug\CallingMethodsChallenge.exe
+C:\Users\owner\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethodsChallenge\bin\Debug\CallingMethodsChallenge.pdb
