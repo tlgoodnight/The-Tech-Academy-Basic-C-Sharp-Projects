@@ -8,9 +8,10 @@ namespace CallingMethodsChallenge
 {
     public class MethodsClass
     {
-        public int Method1(int result1, int result2 = 5)
+        public int Method1(int result1, int result2)
         {
-            return result1 * result2;
+            int total = result1 * result2;
+            return total;
         }
 
     }
