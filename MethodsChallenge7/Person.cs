@@ -12,6 +12,6 @@ public abstract class Person
 
      public virtual void SayName()
     {
-         Console.WriteLine("Name: {0} {1}", FirstName, LastName);
+         
     }
 }        
