@@ -19,3 +19,11 @@ C:\Users\owner\Desktop\Basic_C#_Programs\MethodsChallenge8Polymorphism\obj\Debug
 C:\Users\owner\Desktop\Basic_C#_Programs\MethodsChallenge8Polymorphism\obj\Debug\MethodsChallenge6.csproj.CoreCompileInputs.cache
 C:\Users\owner\Desktop\Basic_C#_Programs\MethodsChallenge8Polymorphism\obj\Debug\MethodsChallenge6.exe
 C:\Users\owner\Desktop\Basic_C#_Programs\MethodsChallenge8Polymorphism\obj\Debug\MethodsChallenge6.pdb
+C:\Users\tlgoo\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsChallenge8Polymorphism\bin\Debug\MethodsChallenge6.exe.config
+C:\Users\tlgoo\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsChallenge8Polymorphism\bin\Debug\MethodsChallenge6.exe
+C:\Users\tlgoo\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsChallenge8Polymorphism\bin\Debug\MethodsChallenge6.pdb
+C:\Users\tlgoo\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsChallenge8Polymorphism\obj\Debug\MethodsChallenge6.csproj.AssemblyReference.cache
+C:\Users\tlgoo\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsChallenge8Polymorphism\obj\Debug\MethodsChallenge6.csproj.SuggestedBindingRedirects.cache
+C:\Users\tlgoo\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsChallenge8Polymorphism\obj\Debug\MethodsChallenge6.csproj.CoreCompileInputs.cache
+C:\Users\tlgoo\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsChallenge8Polymorphism\obj\Debug\MethodsChallenge6.exe
+C:\Users\tlgoo\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsChallenge8Polymorphism\obj\Debug\MethodsChallenge6.pdb

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 public class Employee : Person, IQuitable
 {
+    
     public int Id { get; set; }
+   
 
     public void Quit()
     {
@@ -15,8 +17,10 @@ public class Employee : Person, IQuitable
 
     public override void SayName()
     {
-        Console.WriteLine("Name: {0} {1}", FirstName, LastName);
+        Console.WriteLine("Employee Name: {0} {1} ID:{2}", FirstName, LastName, Id);
     }
+    
+    
     
 
 }

@@ -5,3 +5,11 @@ C:\Users\owner\Desktop\Basic_C#_Programs\TwentyOneApp\obj\Debug\TwentyOneApp.csp
 C:\Users\owner\Desktop\Basic_C#_Programs\TwentyOneApp\obj\Debug\TwentyOneApp.csproj.CoreCompileInputs.cache
 C:\Users\owner\Desktop\Basic_C#_Programs\TwentyOneApp\obj\Debug\TwentyOneApp.exe
 C:\Users\owner\Desktop\Basic_C#_Programs\TwentyOneApp\obj\Debug\TwentyOneApp.pdb
+C:\Users\tlgoo\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneApp\obj\Debug\TwentyOneApp.csproj.AssemblyReference.cache
+C:\Users\tlgoo\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneApp\obj\Debug\TwentyOneApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\tlgoo\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneApp\obj\Debug\TwentyOneApp.csproj.CoreCompileInputs.cache
+C:\Users\tlgoo\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneApp\obj\Debug\TwentyOneApp.exe
+C:\Users\tlgoo\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneApp\obj\Debug\TwentyOneApp.pdb
+C:\Users\tlgoo\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneApp\bin\Debug\TwentyOneApp.exe.config
+C:\Users\tlgoo\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneApp\bin\Debug\TwentyOneApp.exe
+C:\Users\tlgoo\Source\Repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOneApp\bin\Debug\TwentyOneApp.pdb
