@@ -1,7 +1,0 @@
-C:\Users\owner\Desktop\Basic_C#_Programs\StringsandIntegersChallenge\bin\Debug\StringsandIntegersChallenge.exe.config
-C:\Users\owner\Desktop\Basic_C#_Programs\StringsandIntegersChallenge\bin\Debug\StringsandIntegersChallenge.exe
-C:\Users\owner\Desktop\Basic_C#_Programs\StringsandIntegersChallenge\bin\Debug\StringsandIntegersChallenge.pdb
-C:\Users\owner\Desktop\Basic_C#_Programs\StringsandIntegersChallenge\obj\Debug\StringsandIntegersChallenge.csproj.AssemblyReference.cache
-C:\Users\owner\Desktop\Basic_C#_Programs\StringsandIntegersChallenge\obj\Debug\StringsandIntegersChallenge.csproj.CoreCompileInputs.cache
-C:\Users\owner\Desktop\Basic_C#_Programs\StringsandIntegersChallenge\obj\Debug\StringsandIntegersChallenge.exe
-C:\Users\owner\Desktop\Basic_C#_Programs\StringsandIntegersChallenge\obj\Debug\StringsandIntegersChallenge.pdb
