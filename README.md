@@ -18,6 +18,9 @@
 
 <h4>Shipping Quote Program</h4>
 	This is another assignment that is a console app. The challenge was to use if and else statements and calculations to provide a quote.
+
+<h4>TwentyOneApp</h4>
+	This console application plays the basic game of 21. 
 	
 
  
